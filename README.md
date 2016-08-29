@@ -1,4 +1,4 @@
-# GSM 
+# Buffer
 
 
 Funciones C para gestion de un Buffer de Datos

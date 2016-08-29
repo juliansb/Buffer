@@ -21,7 +21,7 @@ int cBuffer[nLenBuf];			 //!<Creacion del buffer
 //-------------------------------------------------------
 //Funciones Buffer 
 //-------------------------------------------------------
-void BorraBuffer();
+void BorraBuffer(void);
 void AddCharBuff(char c);
 int PunteroBuffer (void);
 

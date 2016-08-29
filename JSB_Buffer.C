@@ -15,7 +15,7 @@
 *
 * Borra el Buffer y pone el puntero a 0 ( nPosBuffer = 0 )
 */
-void BorraBuffer()
+void BorraBuffer(void)
 { 
 // Borra Buffer 232 de recepcion poniendo todos los elementos a 0
 // Resetea nPosBuffer
